@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fb772cf-6c06-4ba7-b8f1-9d8dcad8a03e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-books/Data/Models/AppDbContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.my-books/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.my-books/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-books/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/my-books/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-books/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-books/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-books/my-books.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/my-books/my-books.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-books/obj/Debug/net5.0/my-books.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/my-books/obj/Debug/net5.0/my-books.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-books/obj/Debug/net5.0/my-books.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/my-books/obj/Debug/net5.0/my-books.csproj.AssemblyReference.cache" afterDir="false" />
@@ -91,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630678716253</updated>
-      <workItem from="1630678724402" duration="2252000" />
+      <workItem from="1630678724402" duration="2682000" />
     </task>
     <servers />
   </component>
