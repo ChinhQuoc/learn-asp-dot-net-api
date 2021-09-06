@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\study\\dotNet\\LearnDotnet\\my-books\\my-books\\my-books.csproj": {}
+    "F:\\Hiep_BT\\learn-asp-dot-net-api\\my-books\\my-books.csproj": {}
   },
   "projects": {
-    "D:\\study\\dotNet\\LearnDotnet\\my-books\\my-books\\my-books.csproj": {
+    "F:\\Hiep_BT\\learn-asp-dot-net-api\\my-books\\my-books.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\study\\dotNet\\LearnDotnet\\my-books\\my-books\\my-books.csproj",
+        "projectUniqueName": "F:\\Hiep_BT\\learn-asp-dot-net-api\\my-books\\my-books.csproj",
         "projectName": "my-books",
-        "projectPath": "D:\\study\\dotNet\\LearnDotnet\\my-books\\my-books\\my-books.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\study\\dotNet\\LearnDotnet\\my-books\\my-books\\obj\\",
+        "projectPath": "F:\\Hiep_BT\\learn-asp-dot-net-api\\my-books\\my-books.csproj",
+        "packagesPath": "C:\\Users\\dthie\\.nuget\\packages\\",
+        "outputPath": "F:\\Hiep_BT\\learn-asp-dot-net-api\\my-books\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dthie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
